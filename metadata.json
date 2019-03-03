@@ -1,12 +1,12 @@
 {
-  "name": "fact-dir",
+  "name": "factdir",
   "version": "0.1.0",
   "author": "fact",
   "summary": "fact directories",
   "license": "Apache-2.0",
-  "source": "git@github.com:hicksric/puppet-fact-dir.git",
-  "project_page": "https://github.com/hicksric/puppet-fact-dir",
-  "issues_url": "https://github.com/hicksric/puppet-fact-dir/issues",
+  "source": "git@github.com:hicksric/puppet-factdir.git",
+  "project_page": "https://github.com/hicksric/puppet-factdir",
+  "issues_url": "https://github.com/hicksric/puppet-factdir/issues",
   "dependencies": [
     {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
   ],
