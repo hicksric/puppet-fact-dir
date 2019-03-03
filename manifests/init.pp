@@ -1,5 +1,5 @@
 class factdir {
-  file { ['/etc/puppetlab/facter', '/etc/puppetlab/facter/facts.d']:
+  file { '/etc/puppetlabs/facter/facts.d':
     ensure => directory,
   }
 }
